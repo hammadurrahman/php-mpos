@@ -38,7 +38,7 @@
 /vendor/
 
 tests/_output/*
-
+/public/sitemap.gz
 # NetBeans Project Directory
 /nbproject/*
 
